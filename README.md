@@ -1,2 +1,2 @@
-# ekskul-php-crud-ezra
-belajar PHP dengan membuat CRUD
+# ekskul-day02-php-crud-sonny
+Belajar PHP 
