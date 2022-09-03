@@ -1,2 +1,2 @@
-# ekskul-php-crud-janzen
+# ekskul-php-crud-ezra
 belajar PHP dengan membuat CRUD
